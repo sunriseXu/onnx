@@ -37,7 +37,7 @@
                 ]
             },
             "model_with_data_path": "validated/hack.tar.gz",
-            "model_with_data_sha": null,
+            "model_with_data_sha": "786bb632aab30bb574f7f2bab991c56c7707f8d224845f85a16bce32e7980cac",
             "model_with_data_bytes": 26751
         }
     }
