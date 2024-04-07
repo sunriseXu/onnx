@@ -37,7 +37,6 @@
                 ]
             },
             "model_with_data_path": "validated/hack.tar.gz",
-            "model_with_data_sha": "",
             "model_with_data_bytes": 26751
         }
     }
